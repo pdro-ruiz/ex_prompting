@@ -6,10 +6,16 @@
 ---
 
 ## Descripción General
-El objetivo de este ejercicio es desarrollar un formulario pseudomédico y subversivo que diagnostique la "enfermedad" del conformismo social en un futuro distópico dominado por la corporación totalitaria MOM Corp. Este cuestionario no solo evalúa el grado de sumisión de las personas, sino que también propone tácticas de resistencia y culmina en un diseño visual subversivo (como un póster o folleto). 
+El objetivo de este ejercicio es desarrollar un formulario pseudomédico y subversivo que diagnostique la "enfermedad" del conformismo social en un futuro distópico dominado por la corporación totalitaria MOM Corp. Este cuestionario no solo evalúa el grado de sumisión de las personas, sino que también propone tácticas de resistencia y culmina en un diseño visual subversivo (como un póster o folleto).
 
-A través de este ejercicio, quiero explorar diferentes estrategias tácticas, análisis crítico y la generación de imágenes comparando diferentes modelos de IA, utilizando técnicas como *few-shot prompting*, *role-playing*, *iterative refinement*, *contrastive prompting* y *prompt chaining* para lograr un resultado disruptivo y cohesivo.
+![MOM Corp.](mom_corp.jpg)
 
+A través de este ejercicio, quiero explorar diferentes estrategias tácticas, análisis crítico y la generación de imágenes comparando diferentes modelos de IA, utilizando técnicas como:
+- *few-shot prompting*
+- *role-playing*
+- *iterative refinement*
+- *contrastive prompting*
+- *prompt chaining*
 
 
 ## Paso 1: Crear contexto para los Modelos
@@ -23,7 +29,7 @@ Prompt Mejorado: claude-3-sonnet-20240229
 Bajo el lema de "Orden y Estabilidad", MOM Corp ha implementado un sistema de vigilancia masiva y una campaña de propaganda constante para moldear las mentes de la población y suprimir cualquier pensamiento disidente. El conformismo social se ha convertido en la norma, y cualquier desviación es castigada con severidad.
 Tú eres un médico rebelde que ha logrado escapar del control de MOM Corp y has formado parte de una resistencia clandestina que lucha por liberar las mentes de las personas del lavado de cerebro corporativo. Tu objetivo es diseñar un cuestionario de 5 preguntas clave que puedan evaluar el grado de "enfermedad" o conformismo social que una persona ha desarrollado bajo el yugo de MOM Corp. Usa este ejemplo como guía: '¿Tus sueños son tuyos o te los vendieron? (Propios/Vendidos/Confusos)'. Incluye opciones de respuesta y un tono crudo.
 
-
+![Medic](Medic.jpg)
 
 ## Paso 2 dando contexto a los modelos:
 
@@ -265,4 +271,5 @@ El texto debe ser el foco principal de la imagen, ocupando la mayor parte del es
 **Resultado Esperado**
 La imagen final debe ser una representación hiperrealista y evocadora del formulario, con un enfoque claro en el texto del cuestionario. El papel debe parecer prohibido y peligroso, con texturas detalladas que refuercen su clandestinidad. La tipografía debe ser legible pero cruda, y el fondo debe complementar la atmósfera sin distraer. El espectador debe sentir la tensión y la urgencia de este documento, como si estuviera sosteniendo un arma secreta contra la opresión de MOM Corp
 
+![CECS.](CECS.jpg)
 
