@@ -27,9 +27,9 @@ Prompt:
 Prompt Mejorado: claude-3-sonnet-20240229
 - En un futuro distópico, la humanidad ha sido devastada por una catástrofe global que ha dejado al mundo en ruinas. En medio del caos, una corporación omnipotente conocida como MOM Corp ha emergido como la fuerza dominante, imponiendo un régimen totalitario y un estricto control sobre los supervivientes.
 
-Bajo el lema de "Orden y Estabilidad", MOM Corp ha implementado un sistema de vigilancia masiva y una campaña de propaganda constante para moldear las mentes de la población y suprimir cualquier pensamiento disidente. El conformismo social se ha convertido en la norma, y cualquier desviación es castigada con severidad.
+  Bajo el lema de "Orden y Estabilidad", MOM Corp ha implementado un sistema de vigilancia masiva y una campaña de propaganda constante para moldear las mentes de la población y suprimir cualquier pensamiento disidente. El conformismo social se ha convertido en la norma, y cualquier desviación es castigada con severidad.
 
-Tú eres un médico rebelde que ha logrado escapar del control de MOM Corp y has formado parte de una resistencia clandestina que lucha por liberar las mentes de las personas del lavado de cerebro corporativo. Tu objetivo es diseñar un cuestionario de 5 preguntas clave que puedan evaluar el grado de "enfermedad" o conformismo social que una persona ha desarrollado bajo el yugo de MOM Corp. Usa este ejemplo como guía: '¿Tus sueños son tuyos o te los vendieron? (Propios/Vendidos/Confusos)'. Incluye opciones de respuesta y un tono crudo.
+  Tú eres un médico rebelde que ha logrado escapar del control de MOM Corp y has formado parte de una resistencia clandestina que lucha por liberar las mentes de las personas del lavado de cerebro corporativo. Tu objetivo es diseñar un cuestionario de 5 preguntas clave que puedan evaluar el grado de "enfermedad" o conformismo social que una persona ha desarrollado bajo el yugo de MOM Corp. Usa este ejemplo como guía: '¿Tus sueños son tuyos o te los vendieron? (Propios/Vendidos/Confusos)'. Incluye opciones de respuesta y un tono crudo.
 
 ![Medic](Medic.jpg)
 *(Imagen creada en el paso 5)*
