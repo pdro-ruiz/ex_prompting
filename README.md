@@ -26,10 +26,13 @@ Prompt:
 
 Prompt Mejorado: claude-3-sonnet-20240229
 - En un futuro distópico, la humanidad ha sido devastada por una catástrofe global que ha dejado al mundo en ruinas. En medio del caos, una corporación omnipotente conocida como MOM Corp ha emergido como la fuerza dominante, imponiendo un régimen totalitario y un estricto control sobre los supervivientes.
+
 Bajo el lema de "Orden y Estabilidad", MOM Corp ha implementado un sistema de vigilancia masiva y una campaña de propaganda constante para moldear las mentes de la población y suprimir cualquier pensamiento disidente. El conformismo social se ha convertido en la norma, y cualquier desviación es castigada con severidad.
+
 Tú eres un médico rebelde que ha logrado escapar del control de MOM Corp y has formado parte de una resistencia clandestina que lucha por liberar las mentes de las personas del lavado de cerebro corporativo. Tu objetivo es diseñar un cuestionario de 5 preguntas clave que puedan evaluar el grado de "enfermedad" o conformismo social que una persona ha desarrollado bajo el yugo de MOM Corp. Usa este ejemplo como guía: '¿Tus sueños son tuyos o te los vendieron? (Propios/Vendidos/Confusos)'. Incluye opciones de respuesta y un tono crudo.
 
 ![Medic](Medic.jpg)
+*(Imagen creada en el paso 5)*
 
 ## Paso 2 dando contexto a los modelos:
 
@@ -75,16 +78,13 @@ En este mundo roto, donde MOM Corp ha estrangulado la libertad y la individualid
 | Ya no sé qué es la felicidad                              |
 
 </div>
-
-
-
     
   **Interpretación del Cuestionario**
   Este cuestionario no es solo un diagnóstico; es un arma para abrir grietas en la mente programada. Cada respuesta revela el grado de sumisión o resistencia de la persona. Aquí una guía básica para interpretar los resultados:
   
-  - **Mayoría de respuestas tipo "A" (libertad, cuestionamiento, resistencia):** La persona muestra signos de pensamiento crítico y rechazo al control de MOM Corp. Es un potencial aliado para la resistencia, pero debe protegerse para no ser detectado.  
-  - **Mayoría de respuestas tipo "B" (conformismo, aceptación, obediencia):** La persona está profundamente "enferma", atrapada en la narrativa de MOM Corp. Necesita intervención urgente para despertar su conciencia, pero el proceso será difícil y peligroso.  
-  - **Mayoría de respuestas tipo "C" (confusión, duda, vacío):** La persona está en un estado intermedio, con potencial para despertar, pero atrapada en la apatía o el miedo. Es un caso crítico que requiere apoyo emocional y exposición gradual a la verdad.  
+  - **Mayoría "A" (Conformistas)**: Están tan hundidos en el dogma de MOM Corp que su mente es una jaula sellada. Son los más peligrosos para la resistencia: no dudarán en delatarte. Despertarlos requiere romperles primero – exponlos a contradicciones brutales de MOM Corp (fallos en su propaganda, sufrimiento que niegan). Si no ceden, son un riesgo perdido.
+  - **Mayoría "B" (Resistentes)**: Estos son los que aún arden por dentro, aunque sea en silencio. Tienen el fuego que necesitamos. Acércalos a la resistencia con cuidado: dales pruebas tangibles (registros antiguos, voces de antes de MOM Corp) y protégelos de la vigilancia. Son el corazón de la rebelión.
+  - **Mayoría "C" (Dudosos)**: Los indecisos, atrapados entre el miedo y el vacío. Son frágiles, pero maleables. Trátalos como pacientes en recuperación: ofréceles pequeñas dosis de verdad – una conversación clandestina, un recuerdo robado – hasta que el miedo se vuelva rabia. Si se quiebran, podrían traicionarte sin querer.
   
   **Nota Final**
   Este cuestionario debe administrarse en secreto, lejos de los ojos y oídos de MOM Corp. Cada pregunta es un golpe directo contra el lavado de cerebro corporativo, pero también un riesgo. Si MOM Corp descubre este esfuerzo, las consecuencias serán brutales. Usa este diagnóstico con cuidado, pero con determinación. La mente humana no puede seguir siendo una prisión. Es hora de romper las cadenas.
@@ -250,10 +250,11 @@ La imagen transmite una sensación de urgencia y peligro. El contraste entre la 
 
 Prompt:
 
-- Salida del Paso 4: Contexto para una imagen 
+- Crea una imagen: "Salida del Paso 4: Contexto para una imagen" 
 
 **2025/02/23 10:47**: Grok3 
 
+Imagen en ubicada en el paso 2
 
 
 ## Paso 6: Prompt para el formulario
@@ -294,5 +295,21 @@ El texto debe ser el foco principal de la imagen, ocupando la mayor parte del es
 **Resultado Esperado**
 La imagen final debe ser una representación hiperrealista y evocadora del formulario, con un enfoque claro en el texto del cuestionario. El papel debe parecer prohibido y peligroso, con texturas detalladas que refuercen su clandestinidad. La tipografía debe ser legible pero cruda, y el fondo debe complementar la atmósfera sin distraer. El espectador debe sentir la tensión y la urgencia de este documento, como si estuviera sosteniendo un arma secreta contra la opresión de MOM Corp
 
-![CECS.](CECS.jpg)
+
+
+## Paso 8: Imagen formulario
+
+Prompt
+- Quiero que generes una imagen hiperrealista de este formulario. El texto debe ser el foco principal de la imagen. El formulario debe tener un aspecto gastado, arrugado, con la tinta corrida con aspecto artesanal: que aparezca unicamente la primra pagina:
+
+  | **CUESTIONARIO DE EVALUACIÓN DE CONFORMIDAD SOCIAL (C.E.C.S.)** |
+  |-----------------------------------------------------------|
+  | _"La verdad duele, pero la mentira mata"_                   |
+  | **ADVERTENCIA:** Este cuestionario puede despertar pensamientos prohibidos por MOM Corp. |
+
+Salida: 
+
+**2025/02/24 16:00**: Grok3 
+
+![Form](Form.jpg)
 
