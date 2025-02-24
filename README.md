@@ -300,7 +300,7 @@ La imagen final debe ser una representación hiperrealista y evocadora del formu
 ## Paso 8: Imagen formulario
 
 Prompt
-- Quiero que generes una imagen hiperrealista de este formulario. El texto debe ser el foco principal de la imagen. El formulario debe tener un aspecto gastado, arrugado, con la tinta corrida con aspecto artesanal: que aparezca unicamente la primra pagina:
+- Quiero que generes una imagen hiperrealista de este formulario. El texto debe ser el foco principal de la imagen. El formulario debe tener un aspecto gastado, arrugado, y con la tinta corrida, con un aspecto artesanal. Que aparezca únicamente la primera página.
 
   | **CUESTIONARIO DE EVALUACIÓN DE CONFORMIDAD SOCIAL (C.E.C.S.)** |
   |-----------------------------------------------------------|
