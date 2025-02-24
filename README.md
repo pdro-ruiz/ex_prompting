@@ -97,7 +97,3 @@ Este proyecto es una ficción subversiva. En su narrativa, el C.E.C.S. es un sec
 </div>
 
 El C.E.C.S. no es solo un cuestionario; es un acto de defiance, un eco contra la opresión de MOM Corp. Como dice el médico rebelde: *"La mente humana no puede seguir siendo una prisión. Es hora de romper las cadenas."* Que este proyecto sea tu arma, tu refugio y tu esperanza en la lucha por la libertad.
-
----
-
-Espero que esta versión decorada te guste. Los elementos visuales en Markdown (como bordes y texto preformateado) le dan un aire más inmersivo y rebelde, sin perder claridad. Si quieres más ajustes o un estilo diferente, solo dime. ¡A romper cadenas!
